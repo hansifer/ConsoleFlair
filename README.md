@@ -15,5 +15,8 @@ styledConsoleLog(
 '<span style="color:hsl(0, 0%, 80%);background-color:hsl(0, 0%, 0%);"> Black </span>'
 );
 ```
+To get something like:
+
+![My image](https://raw.github.com/hansifer/ConsoleFlair/master/doc/consoleFlairDemo.PNG)
 
 Tested in Chrome 26.
